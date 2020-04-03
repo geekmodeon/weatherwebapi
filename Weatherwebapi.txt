@@ -1,0 +1,10 @@
+
+
+Welcome to the weather web api 
+
+Wuhan 
+Amsterdam
+New York 
+Palo Alto 
+
+
